@@ -1,2 +1,2 @@
-# Tinder-Clone
+# TinDog
 This is a Tinder Clone Project.
